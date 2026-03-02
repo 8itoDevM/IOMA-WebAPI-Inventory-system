@@ -1,0 +1,34 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.obj
+*.exe
+*.dll
+bin/
+obj/
+*.log
+
+# Rider
+.idea/
+
+# MacOS
+.DS_Store
+
+# Node / Front-end
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Environment / Secrets
+.env
+*.env
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Build results
+out/
