@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\8ito\\Documents\\aspnetapis\\IOMA\\IOMA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00C170F2-7169-4572-91A7-65B008CA0D99}|IOMA.API\\IOMA.API.csproj|c:\\users\\8ito\\documents\\aspnetapis\\ioma\\ioma\\ioma.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00C170F2-7169-4572-91A7-65B008CA0D99}|IOMA.API\\IOMA.API.csproj|solutionrelative:ioma.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00CFBEFE-B090-8FCD-5144-C32FE0BF4680}|IOMA.API\\IOMA.API.csproj|c:\\users\\8ito\\documents\\aspnetapis\\ioma\\ioma\\ioma.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CFBEFE-B090-8FCD-5144-C32FE0BF4680}|IOMA.API\\IOMA.API.csproj|solutionrelative:ioma.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CFBEFE-B090-8FCD-5144-C32FE0BF4680}|IOMA.API\\IOMA.API.csproj|c:\\users\\8ito\\documents\\aspnetapis\\ioma\\ioma\\ioma.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00CFBEFE-B090-8FCD-5144-C32FE0BF4680}|IOMA.API\\IOMA.API.csproj|solutionrelative:ioma.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CFBEFE-B090-8FCD-5144-C32FE0BF4680}|IOMA.API\\IOMA.API.csproj|c:\\users\\8ito\\documents\\aspnetapis\\ioma\\ioma\\ioma.api\\data\\iomadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CFBEFE-B090-8FCD-5144-C32FE0BF4680}|IOMA.API\\IOMA.API.csproj|solutionrelative:ioma.api\\data\\iomadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CFBEFE-B090-8FCD-5144-C32FE0BF4680}|IOMA.API\\IOMA.API.csproj|c:\\users\\8ito\\documents\\aspnetapis\\ioma\\ioma\\ioma.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00CFBEFE-B090-8FCD-5144-C32FE0BF4680}|IOMA.API\\IOMA.API.csproj|solutionrelative:ioma.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CFBEFE-B090-8FCD-5144-C32FE0BF4680}|IOMA.API\\IOMA.API.csproj|c:\\users\\8ito\\documents\\aspnetapis\\ioma\\ioma\\ioma.api\\models\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CFBEFE-B090-8FCD-5144-C32FE0BF4680}|IOMA.API\\IOMA.API.csproj|solutionrelative:ioma.api\\models\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CFBEFE-B090-8FCD-5144-C32FE0BF4680}|IOMA.API\\IOMA.API.csproj|c:\\users\\8ito\\documents\\aspnetapis\\ioma\\ioma\\ioma.api\\models\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CFBEFE-B090-8FCD-5144-C32FE0BF4680}|IOMA.API\\IOMA.API.csproj|solutionrelative:ioma.api\\models\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CFBEFE-B090-8FCD-5144-C32FE0BF4680}|IOMA.API\\IOMA.API.csproj|c:\\users\\8ito\\documents\\aspnetapis\\ioma\\ioma\\ioma.api\\models\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CFBEFE-B090-8FCD-5144-C32FE0BF4680}|IOMA.API\\IOMA.API.csproj|solutionrelative:ioma.api\\models\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +38,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\8ito\\Documents\\aspnetapis\\IOMA\\IOMA\\IOMA.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IOMA.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\8ito\\Documents\\aspnetapis\\IOMA\\IOMA\\IOMA.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IOMA.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-02T02:49:41.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\8ito\\Documents\\aspnetapis\\IOMA\\IOMA\\IOMA.API\\appsettings.json",
+              "RelativeDocumentMoniker": "IOMA.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\8ito\\Documents\\aspnetapis\\IOMA\\IOMA\\IOMA.API\\appsettings.json",
+              "RelativeToolTip": "IOMA.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-02T02:26:12.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOMADbContext.cs",
+              "DocumentMoniker": "C:\\Users\\8ito\\Documents\\aspnetapis\\IOMA\\IOMA\\IOMA.API\\Data\\IOMADbContext.cs",
+              "RelativeDocumentMoniker": "IOMA.API\\Data\\IOMADbContext.cs",
+              "ToolTip": "C:\\Users\\8ito\\Documents\\aspnetapis\\IOMA\\IOMA\\IOMA.API\\Data\\IOMADbContext.cs",
+              "RelativeToolTip": "IOMA.API\\Data\\IOMADbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T02:21:10.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\8ito\\Documents\\aspnetapis\\IOMA\\IOMA\\IOMA.API\\Models\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "IOMA.API\\Models\\Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\8ito\\Documents\\aspnetapis\\IOMA\\IOMA\\IOMA.API\\Models\\Domain\\Order.cs",
+              "RelativeToolTip": "IOMA.API\\Models\\Domain\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T02:14:32.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\8ito\\Documents\\aspnetapis\\IOMA\\IOMA\\IOMA.API\\Models\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "IOMA.API\\Models\\Domain\\Product.cs",
+              "ToolTip": "C:\\Users\\8ito\\Documents\\aspnetapis\\IOMA\\IOMA\\IOMA.API\\Models\\Domain\\Product.cs",
+              "RelativeToolTip": "IOMA.API\\Models\\Domain\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T02:12:58.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\8ito\\Documents\\aspnetapis\\IOMA\\IOMA\\IOMA.API\\Models\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "IOMA.API\\Models\\Domain\\User.cs",
+              "ToolTip": "C:\\Users\\8ito\\Documents\\aspnetapis\\IOMA\\IOMA\\IOMA.API\\Models\\Domain\\User.cs",
+              "RelativeToolTip": "IOMA.API\\Models\\Domain\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T02:10:32.148Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +126,7 @@
               "RelativeDocumentMoniker": "IOMA.API\\Program.cs",
               "ToolTip": "C:\\Users\\8ito\\Documents\\aspnetapis\\IOMA\\IOMA\\IOMA.API\\Program.cs",
               "RelativeToolTip": "IOMA.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T01:53:18.017Z",
               "EditorCaption": ""

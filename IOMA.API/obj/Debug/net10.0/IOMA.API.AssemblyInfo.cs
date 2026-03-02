@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IOMA.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd38e0a20566ba9ef84c5d55e13a00528f5eecb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("IOMA.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IOMA.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
